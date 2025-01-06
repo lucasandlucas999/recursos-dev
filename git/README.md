@@ -7,8 +7,4 @@
 Subir enlaces abajo
 ↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓↓
 
-- JavaScript React: Documentación -> https://react.dev/learn
-
-- JavaScript Vanilla: Documentación Estructurada (no oficial) -> https://es.javascript.info/
-
-- JavaScript Vanilla: Libro -> https://www.eloquentjavascript.es/
+- Git: Libro -> https://dirac.df.uba.ar/_media/progit_v2.1.19.pdf
