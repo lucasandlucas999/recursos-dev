@@ -1,2 +1,2 @@
-# recursos
-Repositorio para subir libros o videos útiles para programación
+# Info
+Repositorio para subir libros, videos, documentaciones, bootcamps, entre otras fuentes de información útiles para programación
