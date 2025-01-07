@@ -12,3 +12,5 @@ Subir enlaces abajo
 - JavaScript Vanilla: Documentación Estructurada (no oficial) -> https://es.javascript.info/ (recomendado)
 
 - JavaScript Vanilla: Libro -> https://www.eloquentjavascript.es/
+
+- Next.js 14 (react framework), Tutorial, Introducción y practica desde cero -> https://youtu.be/jMy4pVZMyLM
